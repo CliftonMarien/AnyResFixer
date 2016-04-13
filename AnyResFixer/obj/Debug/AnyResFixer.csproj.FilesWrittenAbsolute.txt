@@ -1,0 +1,12 @@
+/Users/Clifton/Projects/AnyResFixer/AnyResFixer/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/Clifton/Projects/AnyResFixer/AnyResFixer/bin/Debug/AnyResFixer.dll.mdb
+/Users/Clifton/Projects/AnyResFixer/AnyResFixer/bin/Debug/AnyResFixer.dll
+/Users/Clifton/Projects/AnyResFixer/AnyResFixer/obj/Debug/AnyResFixer.dll
+/Users/Clifton/Projects/AnyResFixer/AnyResFixer/obj/Debug/AnyResFixer.dll.mdb
+/Users/Clifton/Projects/AnyResFixer/AnyResFixer/bin/Debug/Assembly-CSharp.dll
+/Users/Clifton/Projects/AnyResFixer/AnyResFixer/bin/Debug/Assembly-CSharp-firstpass.dll
+/Users/Clifton/Projects/AnyResFixer/AnyResFixer/bin/Debug/KSPAssets.dll
+/Users/Clifton/Projects/AnyResFixer/AnyResFixer/bin/Debug/KSPCore.dll
+/Users/Clifton/Projects/AnyResFixer/AnyResFixer/bin/Debug/KSPUtil.dll
+/Users/Clifton/Projects/AnyResFixer/AnyResFixer/bin/Debug/UnityEngine.UI.dll
+/Users/Clifton/Projects/AnyResFixer/AnyResFixer/bin/Debug/UnityEngine.dll
